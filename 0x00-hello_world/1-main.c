@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Entry point
@@ -7,6 +7,5 @@ i#include <stdio.h>
  */
 int main(void)
 {
-	printf(void);
 	return (0);
 }
